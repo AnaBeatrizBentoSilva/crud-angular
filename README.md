@@ -29,8 +29,14 @@ Criar uma aplicação CRUD funcional, utilizando:
 │   └── src/
 │   │   ├── app/
 │   │   │   ├── components/
+│   │   │   │   ├── product/
+│   │   │   │   └── template/
 │   │   │   ├── directives/
+│   │   │   │   ├── for.directive.ts
+│   │   │   │   └── red.directive.ts
 │   │   │   ├── views/
+│   │   │   │   ├── home/
+│   │   │   │   └── product-crud/
 │   │   │   ├── app-routing.module.ts
 │   │   │   ├── app.component.html
 │   │   │   ├── app.component.ts
