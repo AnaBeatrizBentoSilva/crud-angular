@@ -30,6 +30,24 @@ Criar uma aplicação CRUD funcional, utilizando:
 │   │   ├── app/
 │   │   │   ├── components/
 │   │   │   │   ├── product/
+│   │   │   │   │   ├── product-create/
+│   │   │   │   │   │   ├── product-create.component.css
+│   │   │   │   │   │   ├── product-create.component.html
+│   │   │   │   │   │   └── product-create.component.ts
+│   │   │   │   │   ├── product-delete/
+│   │   │   │   │   │   ├── product-delete.component.css
+│   │   │   │   │   │   ├── product-delete.component.html
+│   │   │   │   │   │   └── product-delete.component.ts
+│   │   │   │   │   ├── product-read/
+│   │   │   │   │   │   ├── product-read.component.css
+│   │   │   │   │   │   ├── product-read.component.html
+│   │   │   │   │   │   └── product-read.component.ts
+│   │   │   │   │   ├── product-update/
+│   │   │   │   │   │   ├── product-update.component.css
+│   │   │   │   │   │   ├── product-update.component.html
+│   │   │   │   │   │   └── product-update.component.ts
+│   │   │   │   │   ├── product.model.ts
+│   │   │   │   │   └── product.service.ts
 │   │   │   │   └── template/
 │   │   │   ├── directives/
 │   │   │   │   ├── for.directive.ts
