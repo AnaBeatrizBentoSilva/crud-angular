@@ -49,6 +49,20 @@ Criar uma aplicação CRUD funcional, utilizando:
 │   │   │   │   │   ├── product.model.ts
 │   │   │   │   │   └── product.service.ts
 │   │   │   │   └── template/
+│   │   │   │   │   ├── footer/
+│   │   │   │   │   │   ├── footer.component.css
+│   │   │   │   │   │   ├── footer.component.html
+│   │   │   │   │   │   └── footer.component.ts
+│   │   │   │   │   ├── header/
+│   │   │   │   │   │   ├── header-data.model.ts
+│   │   │   │   │   │   ├── header.component.css
+│   │   │   │   │   │   ├── header.component.html
+│   │   │   │   │   │   ├── header.component.ts
+│   │   │   │   │   │   └── header.service.ts
+│   │   │   │   │   └── nav/
+│   │   │   │   │       ├── nav.component.css
+│   │   │   │   │       ├── nav.component.html
+│   │   │   │   │       └── nav.component.ts
 │   │   │   ├── directives/
 │   │   │   │   ├── for.directive.ts
 │   │   │   │   └── red.directive.ts
